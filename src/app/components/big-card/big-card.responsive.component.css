@@ -1,0 +1,9 @@
+@media screen and (max-width: 600px) {
+    .container__big-card {
+        width: 100%;
+        
+        margin: auto;
+        align-items: center;
+    }
+
+}
