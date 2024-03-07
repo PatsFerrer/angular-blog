@@ -1,18 +1,15 @@
 .container__small-card{
-    /* border: 1px solid #ccc; */
     width: 700px;
-
 }
 
 .container__small-card-content {
     display: flex;
-    gap: 20px;
+    gap: 5px;
 }
 
 .small-card__photo> img {
     width: 200px;
     min-width: 200px;
-
 }
 
 .small-card__title {
